@@ -12,6 +12,7 @@
   "author": "Yury Sidorov, (Name all other persona contributors here)",
   "license": "ISC",
   "dependencies": {
+    "re-slide": "^1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
